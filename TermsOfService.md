@@ -103,7 +103,7 @@ We may update these terms from time to time. Continued use of the app after chan
 For questions about these Terms of Service, please contact us at:
 如有任何关于服务条款的问题，请联系我们：
 
-📧 **support@photospace.app**
+📧 **mrliang8816@gmail.com**
 
 ---
 

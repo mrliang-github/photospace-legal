@@ -75,7 +75,7 @@ We use Apple's StoreKit for in-app purchases. Payment processing is handled enti
 If you have any questions about this Privacy Policy, please contact us at:
 如有任何关于隐私政策的问题，请联系我们：
 
-📧 **support@photospace.app**
+📧 **mrliang8816@gmail.com**
 
 ---
 

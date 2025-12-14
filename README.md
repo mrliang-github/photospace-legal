@@ -16,7 +16,7 @@ This repository contains the legal documents for **PhotoSpace - Gallery Cleaner*
 
 ## Contact
 
-For any questions, please contact us at: **support@photospace.app**
+For any questions, please contact us at: **mrliang8816@gmail.com**
 
 ---
 
