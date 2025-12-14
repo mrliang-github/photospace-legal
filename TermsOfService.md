@@ -107,4 +107,4 @@ For questions about these Terms of Service, please contact us at:
 
 ---
 
-*Last updated: December 2024 / 最后更新：2024 年 12 月*
+*Last updated: December 2025 / 最后更新：2025 年 12 月 14 日*
